@@ -118,4 +118,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Inspired by tutorials from Data Professor, StatQuest, and Corey Schafer.
 
 ## Contact
-For questions or feedback, please open an issue on GitHub or contact [your-email@example.com].
+For questions or feedback, please open an issue on GitHub or contact [pshoury@gmail.com]
